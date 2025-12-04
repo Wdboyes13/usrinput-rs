@@ -1,0 +1,14 @@
+[package]
+name = "ezinput"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/Wdboyes13/ezinput-rs"
+authors = ["Wdboyes13 <willdev2025@outlook.com>"]
+
+[lib]
+name = "ezinput"
+path = "src/lib.rs"
+crate-type = ["rlib"]
+
+[dependencies]
