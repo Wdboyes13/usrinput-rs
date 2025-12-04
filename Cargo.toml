@@ -1,13 +1,13 @@
 [package]
-name = "ezinput"
+name = "usr_input"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
-repository = "https://github.com/Wdboyes13/ezinput-rs"
+repository = "https://github.com/Wdboyes13/usrinput-rs"
 authors = ["Wdboyes13 <willdev2025@outlook.com>"]
 
 [lib]
-name = "ezinput"
+name = "usr_input"
 path = "src/lib.rs"
 crate-type = ["rlib"]
 

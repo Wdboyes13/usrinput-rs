@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ezinput"
+name = "usr_input"
 version = "0.1.0"
