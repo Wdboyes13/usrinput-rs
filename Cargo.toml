@@ -5,6 +5,7 @@ edition = "2024"
 license = "MIT"
 repository = "https://github.com/Wdboyes13/usrinput-rs"
 authors = ["Wdboyes13 <willdev2025@outlook.com>"]
+description = "A simple macro to get user input in 1 line"
 
 [lib]
 name = "usr_input"
